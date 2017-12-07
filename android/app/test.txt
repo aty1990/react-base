@@ -1,0 +1,3 @@
+别名 allen
+key password aty1990
+store pasword aty1990
